@@ -6,7 +6,6 @@ import logging
 import re
 import sys
 
-
 FIELD_MATCHER = re.compile(r'(^[^a-zA-Z])')
 
 line_number = 0
